@@ -1,3 +1,3 @@
 Vector Distance Calculation Exercise done for class
 
-![Screengrab]()
+![Screengrab](https://github.com/jonathan-f-gomez/Vector-Distance-Calculation/blob/master/Screenshots/Capture.JPG)
